@@ -3,3 +3,4 @@ Ini file 1 dari branch/a
 Ini file 1 dari branch/b
 Ini file 1 dari branch/c
 Ini file 1 dari branch/d
+Ini file 1 dari branch master di github repository
